@@ -30,7 +30,8 @@
       "Bash(./gradlew:*)",
       "Bash(tree:*)",
       "Bash(dart analyze:*)",
-      "Bash(flutter analyze:*)"
+      "Bash(flutter analyze:*)",
+      "mcp__dart__pub"
     ],
     "deny": []
   },
